@@ -1,2 +1,9 @@
-# Python-Data-Visualization-Libraries
-Matplotlib, Seaborn, Plotly, Bokeh, ggplot, pygal 
+# Python Data Visualization Libraries
+<ul>
+<li>Matplotlib</li>
+<li>Seaborn</li>
+<li>Plotly</li>
+<li>Bokeh</li>
+<li>ggplot</li>
+<li>pygal </li>
+
