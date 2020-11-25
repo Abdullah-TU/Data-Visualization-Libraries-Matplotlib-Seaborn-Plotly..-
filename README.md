@@ -3,5 +3,7 @@
 <li>Matplotlib</li>
 <li>Seaborn</li>
 <li>Plotly</li>
+<li>Bokeh</li>
+<li>ggplot</li>
 
 
