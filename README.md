@@ -1,4 +1,4 @@
-# 📖 Python Based Data Visualization Libraries 🗠
+# 📖 Python Based Data Visualization Libraries 📈
 <ul>
 <li>Matplotlib</li>
 <li>Seaborn</li>
